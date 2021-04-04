@@ -1,0 +1,57 @@
+#input{
+    width: 300px;
+    height: 30px;
+    background: rgba(241, 252, 255, 0.966);
+    border-radius: 5px;
+    font-size: 90%;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+body{
+    background-image: url('umbrela.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#data_div{
+    display: none;
+    width: 300px;
+    height: 40%;
+    border: 2px solid black;
+    background: rgba(37, 199, 47, 0.5);
+    border-radius: 5px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+#city_div{
+    font-size: 40px;
+    color: white;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#date_div{
+    font-size: 15px;
+    color: white;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+#temp_div{
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+    margin-left: 30%;
+    margin-top: 5px;
+}
+#status_div{
+    font-size: 45px;
+    color: white;
+    margin-left: 30%;
+    margin-top: 5px;
+}
+#min_max_div{
+    font-size: 25px;
+    color: white;
+    margin-left: 30%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
